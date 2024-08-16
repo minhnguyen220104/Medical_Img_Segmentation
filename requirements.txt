@@ -1,0 +1,16 @@
+scikit-learn
+pandas
+numpy
+torch
+tqdm
+PyYAML
+opencv-python
+opencv-python-headless
+albumentations
+glob2
+matplotlib
+matplotlib-inline
+argparse
+#following packges are required if you are running jupyter notebook
+ipykernel
+ipython
